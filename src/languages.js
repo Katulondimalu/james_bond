@@ -173,22 +173,22 @@ export let translations = {
     nl: 'GAME 6',
   },
   game1VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Patient%200%2F001.mp3?alt=media&token=71deccec-ea95-4763-965a-81ff03288c2f',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/James%20Bond%2F001.mp3?alt=media&token=363a5685-49cc-4366-a39e-297a4646cea5',
   },
   game2VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Patient%200%2F002.mp3?alt=media&token=0eafc366-02d0-474a-a2c6-2f6a66859879',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/James%20Bond%2F002.mp3?alt=media&token=0554cf59-5681-452a-be5a-3933a4736ac4',
   },
   game3VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Patient%200%2F003.mp3?alt=media&token=3137414c-cb59-4bb7-820a-e63dc77a3264',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/James%20Bond%2F003.mp3?alt=media&token=13c8f2d5-5b71-420c-b915-e487122a720a',
   },
   game4VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Patient%200%2F004.mp3?alt=media&token=59eeff6c-01cb-41f1-bc67-7e6b40468283',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/James%20Bond%2F004.mp3?alt=media&token=20608d5c-7664-42ac-898d-ea9a39e380e0',
   },
   game5VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Patient%200%2F005.mp3?alt=media&token=e5b7cea7-517b-43cc-89cd-152164eb8b25',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/James%20Bond%2F005.mp3?alt=media&token=f48fcf65-885f-426d-9582-9410fcfd8a14',
   },
   game6VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Patient%200%2F006.mp3?alt=media&token=d45936cd-3774-41f5-b43e-5dbbfdbaa278',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/James%20Bond%2F006.mp3?alt=media&token=feda7486-40c5-4501-a7de-fc581f185597',
   },
   gameeindeVideoUrl: {
     nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Nederlands%20klein%2Fspel_6%20(720p).mp4?alt=media&token=f59585d7-e76d-4a8a-9585-e4b3aa974d71',
