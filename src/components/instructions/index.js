@@ -58,7 +58,7 @@ const Instructions = ({ onNext }) => {
         <InstructionStep>Stap 4.</InstructionStep>
         <InstructionContent>
         Forceer niks, hou alles goed bij elkaar en speel goed samen. Dan ben je een stap dichter bij 
-        het redden van moeder aarde.
+        het redden van James Bond.
         </InstructionContent>
         <InstructionContent>
           <img src={assets.images.common?.StartInstruction} alt='' />
