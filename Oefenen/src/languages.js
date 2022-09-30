@@ -2,13 +2,13 @@ import { with_translation } from './utils/use';
 
 export let translations = {
   'The Box': {
-    nl: 'Patient 0',
+    nl: 'James Bond',
   },
   'The box of': {
     nl: 'De kist van',
   },
   '#workhardplaysmart': {
-    nl: 'Patient 0',
+    nl: 'James Bond',
   },
   Enter: {
     nl: 'Verder',
